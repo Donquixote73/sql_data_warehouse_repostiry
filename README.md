@@ -2,6 +2,7 @@
 Build a SQL-based Data Warehouse with Oracle server, including ETL processes, for storing, transforming, and analyzing structured business data.
 
 📦 Data Warehouse Project
+
 📘 Overview
 
 This project demonstrates my understanding of how a Data Warehouse operates, including its architecture, data modeling principles, and ETL processes.
